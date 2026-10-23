@@ -1,0 +1,79 @@
+{
+  "input_records": 69,
+  "valid_records": 62,
+  "rejected_records": 7,
+  "validation_rate": 89.86,
+  "role_distribution": {
+    "Software Developer": 44,
+    "Data Scientist": 7,
+    "Data Engineer": 8,
+    "Data Analyst": 3
+  },
+  "source_distribution": {
+    "Remotive": 11,
+    "Jobicy": 36,
+    "Himalayas": 15
+  },
+  "rejected_by_source": {
+    "Remotive": 7
+  },
+  "data_completeness": {
+    "salary_available": 28,
+    "salary_percentage": 45.16,
+    "location_available": 62,
+    "location_percentage": 100.0,
+    "description_available": 62,
+    "description_percentage": 100.0
+  },
+  "rejected_jobs": [
+    {
+      "job_title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "Freelance Writer",
+      "company": "IAPWE",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "Freelance Copywriter",
+      "company": "Coalition Technologies",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "reason": "Role not matched"
+    },
+    {
+      "job_title": "AI Response Evaluator",
+      "company": "iMerit Technology",
+      "source": "Remotive",
+      "job_url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "reason": "Role not matched"
+    }
+  ]
+}

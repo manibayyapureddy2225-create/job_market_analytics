@@ -1,0 +1,31 @@
+skill,job_count,average_salary,demand_percentage
+Python,29,157971.65,50.88
+SQL,27,139141.89,47.37
+Excel,23,150884.18,40.35
+AWS,22,161116.0,38.6
+TypeScript,20,254979.5,35.09
+Machine Learning,19,131583.43,33.33
+Java,19,186925.0,33.33
+Git,18,179517.27,31.58
+React,17,226561.0,29.82
+CI/CD,13,144041.67,22.81
+Kubernetes,12,136491.67,21.05
+Node.js,11,160000.0,19.3
+Google Cloud,10,96613.5,17.54
+Data Visualization,8,114913.5,14.04
+Docker,8,143175.0,14.04
+REST API,8,125549.5,14.04
+JavaScript,8,188702.0,14.04
+Azure,7,130022.5,12.28
+Vue.js,7,,12.28
+PostgreSQL,7,,12.28
+Statistics,7,131098.0,12.28
+Tableau,4,138450.0,7.02
+MySQL,3,157600.0,5.26
+MongoDB,2,195700.0,3.51
+Spring Boot,2,,3.51
+Power BI,2,124400.0,3.51
+Jupyter,1,,1.75
+Pandas,1,,1.75
+NumPy,1,,1.75
+SQLite,1,,1.75

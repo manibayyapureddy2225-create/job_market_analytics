@@ -1,0 +1,31 @@
+INFO: Starting: SQL analytics CSV export
+INFO: Exported query_01.csv (1 rows)
+INFO: Exported query_02.csv (5 rows)
+INFO: Exported query_03.csv (25 rows)
+INFO: Exported query_04.csv (15 rows)
+INFO: Exported query_05.csv (5 rows)
+INFO: Exported query_06.csv (5 rows)
+INFO: Exported query_07.csv (4 rows)
+INFO: Exported query_08.csv (5 rows)
+INFO: Exported query_09.csv (9 rows)
+INFO: Exported query_10.csv (2 rows)
+INFO: Exported query_11.csv (3 rows)
+INFO: Exported query_12.csv (8 rows)
+INFO: Exported query_13.csv (12 rows)
+INFO: Exported query_14.csv (20 rows)
+INFO: Exported query_15.csv (1 rows)
+INFO: Exported query_16.csv (5 rows)
+INFO: Exported query_17.csv (5 rows)
+INFO: Exported query_18.csv (20 rows)
+INFO: Reports saved to: C:\Users\manid\OneDrive\Documents\Job_Market_Analytics\reports\analytics_20261022_041012
+INFO: Successful queries: 18
+INFO: Failed queries: 0
+INFO: Completed: SQL analytics CSV export
+INFO: Starting: HTML report generation
+INFO: Report created: C:\Users\manid\OneDrive\Documents\Job_Market_Analytics\reports\job_market_report_20261022_041013.html
+INFO: Source export folder: C:\Users\manid\OneDrive\Documents\Job_Market_Analytics\reports\analytics_20261022_041012
+INFO: Query CSV files included: 18
+INFO: Open the HTML file in your browser to view or print as PDF.
+INFO: Completed: HTML report generation
+INFO: SUCCESS: Complete analytics pipeline finished.
+INFO: Starting: SQL analytics CSV export

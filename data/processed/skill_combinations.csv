@@ -1,0 +1,20 @@
+skill_1,skill_2,job_count
+Python,SQL,3
+Excel,Power BI,2
+Excel,SQL,2
+Power BI,Python,2
+Power BI,SQL,2
+Excel,Python,2
+Data Visualization,Excel,1
+Data Visualization,Python,1
+Data Visualization,Power BI,1
+FastAPI,Git,1
+Data Visualization,SQL,1
+FastAPI,SQL,1
+FastAPI,REST API,1
+FastAPI,Python,1
+Git,Python,1
+Git,SQL,1
+Git,REST API,1
+Python,REST API,1
+REST API,SQL,1

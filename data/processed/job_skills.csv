@@ -1,0 +1,318 @@
+job_id,job_title,company,location,salary_avg,skill
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Python
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Java
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,JavaScript
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,TypeScript
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Machine Learning
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,React
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Vue.js
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Node.js
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,AWS
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Azure
+1,Senior React Full-stack Developer,Lemon.io,"Europe, USA, Canada, APAC",,Google Cloud
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Python
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Java
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,JavaScript
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,TypeScript
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Machine Learning
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,React
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Vue.js
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Node.js
+2,Senior back-end Engineer,Lemon.io,"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",,Kubernetes
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Python
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Java
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,JavaScript
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,TypeScript
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Machine Learning
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,React
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Vue.js
+3,Senior AI Engineer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Node.js
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Python
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Java
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,JavaScript
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,TypeScript
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Machine Learning
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,React
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Vue.js
+4,Senior .NET Full-stack Developer,Lemon.io,"Northern America, LATAM, Europe, APAC",,Node.js
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,Python
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,Java
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,JavaScript
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,TypeScript
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,Machine Learning
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,React
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,Vue.js
+5,Senior Data Scientist,Lemon.io,"Northern America, LATAM, Europe, APAC",,Node.js
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Python
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Java
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,SQL
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Excel
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Machine Learning
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,React
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Node.js
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,AWS
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Azure
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Google Cloud
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Docker
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Kubernetes
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Git
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,PostgreSQL
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Data Visualization
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Statistics
+7,Fullstack Software Engineer - Core,Dataiku,"France,  Germany,  Netherlands,  Spain,  UK",,Jupyter
+8,"Data Scientist II, Infrastructure",Pinterest,USA,174808.0,SQL
+8,"Data Scientist II, Infrastructure",Pinterest,USA,174808.0,AWS
+8,"Data Scientist II, Infrastructure",Pinterest,USA,174808.0,Statistics
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,Python
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,Java
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,TypeScript
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,SQL
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,React
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,Node.js
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,AWS
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,Google Cloud
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,Git
+9,"Senior Software Engineer, Fullstack",CoderPad,LATAM,,PostgreSQL
+10,Senior Software Development Engineer in Test (SDET),Flex,Anywhere,142800.0,SQL
+10,Senior Software Development Engineer in Test (SDET),Flex,Anywhere,142800.0,Excel
+10,Senior Software Development Engineer in Test (SDET),Flex,Anywhere,142800.0,CI/CD
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Python
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,SQL
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Excel
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Tableau
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Machine Learning
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Git
+11,"Senior Manager, Data Strategy & Analytics",Happy Money,USA,152500.0,Data Visualization
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Java
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,JavaScript
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,TypeScript
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Excel
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Machine Learning
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Vue.js
+12,Staff Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,AWS
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Java
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,JavaScript
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,TypeScript
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Excel
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Machine Learning
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,Vue.js
+13,Senior Frontend Engineer,ClickUp,"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",,AWS
+14,Senior Data Scientist,Clover Health,USA,203450.0,Python
+14,Senior Data Scientist,Clover Health,USA,203450.0,SQL
+14,Senior Data Scientist,Clover Health,USA,203450.0,Machine Learning
+14,Senior Data Scientist,Clover Health,USA,203450.0,Git
+14,Senior Data Scientist,Clover Health,USA,203450.0,Statistics
+15,Software Developer II,Cision,Canada,103197.5,SQL
+15,Software Developer II,Cision,Canada,103197.5,Excel
+15,Software Developer II,Cision,Canada,103197.5,REST API
+15,Software Developer II,Cision,Canada,103197.5,Git
+16,Staff Software Developer,Cision,Canada,153550.0,SQL
+16,Staff Software Developer,Cision,Canada,153550.0,Excel
+16,Staff Software Developer,Cision,Canada,153550.0,REST API
+16,Staff Software Developer,Cision,Canada,153550.0,React
+16,Staff Software Developer,Cision,Canada,153550.0,Git
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,Python
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,SQL
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,Machine Learning
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,Google Cloud
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,Kubernetes
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,Git
+17,1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integration,GoFasti,LATAM,6500.0,CI/CD
+18,Senior Backend Engineer,Eight Sleep,"Canada,  USA",195000.0,Python
+18,Senior Backend Engineer,Eight Sleep,"Canada,  USA",195000.0,Java
+18,Senior Backend Engineer,Eight Sleep,"Canada,  USA",195000.0,TypeScript
+18,Senior Backend Engineer,Eight Sleep,"Canada,  USA",195000.0,Excel
+18,Senior Backend Engineer,Eight Sleep,"Canada,  USA",195000.0,Machine Learning
+19,Commercial Data Scientist,Doximity,USA,146066.5,Python
+19,Commercial Data Scientist,Doximity,USA,146066.5,SQL
+19,Commercial Data Scientist,Doximity,USA,146066.5,Excel
+19,Commercial Data Scientist,Doximity,USA,146066.5,Machine Learning
+19,Commercial Data Scientist,Doximity,USA,146066.5,AWS
+19,Commercial Data Scientist,Doximity,USA,146066.5,Data Visualization
+19,Commercial Data Scientist,Doximity,USA,146066.5,Statistics
+20,Senior Software Engineer - Mobile (Android),Eight Sleep,USA,217500.0,Excel
+20,Senior Software Engineer - Mobile (Android),Eight Sleep,USA,217500.0,Machine Learning
+21,"Backend Engineer, Core Technology",Stripe,USA,,Java
+21,"Backend Engineer, Core Technology",Stripe,USA,,Machine Learning
+22,Sr. Software Engineer,CentralReach,USA,160000.0,TypeScript
+22,Sr. Software Engineer,CentralReach,USA,160000.0,SQL
+22,Sr. Software Engineer,CentralReach,USA,160000.0,Excel
+22,Sr. Software Engineer,CentralReach,USA,160000.0,REST API
+22,Sr. Software Engineer,CentralReach,USA,160000.0,React
+22,Sr. Software Engineer,CentralReach,USA,160000.0,Node.js
+22,Sr. Software Engineer,CentralReach,USA,160000.0,AWS
+22,Sr. Software Engineer,CentralReach,USA,160000.0,Docker
+22,Sr. Software Engineer,CentralReach,USA,160000.0,Kubernetes
+22,Sr. Software Engineer,CentralReach,USA,160000.0,CI/CD
+23,"Senior Data Analyst, GTM Analytics - CANADA",Luxury Presence,Canada,,Python
+23,"Senior Data Analyst, GTM Analytics - CANADA",Luxury Presence,Canada,,SQL
+23,"Senior Data Analyst, GTM Analytics - CANADA",Luxury Presence,Canada,,Tableau
+23,"Senior Data Analyst, GTM Analytics - CANADA",Luxury Presence,Canada,,Machine Learning
+24,"Staff Data Scientist - Ads Measurement, Signals, Privacy",Reddit,Canada,,Python
+24,"Staff Data Scientist - Ads Measurement, Signals, Privacy",Reddit,Canada,,SQL
+24,"Staff Data Scientist - Ads Measurement, Signals, Privacy",Reddit,Canada,,Machine Learning
+24,"Staff Data Scientist - Ads Measurement, Signals, Privacy",Reddit,Canada,,Statistics
+25,"Senior Software Engineer, Graph Analytics",TRM Labs,USA,210000.0,Python
+25,"Senior Software Engineer, Graph Analytics",TRM Labs,USA,210000.0,SQL
+25,"Senior Software Engineer, Graph Analytics",TRM Labs,USA,210000.0,Excel
+25,"Senior Software Engineer, Graph Analytics",TRM Labs,USA,210000.0,AWS
+25,"Senior Software Engineer, Graph Analytics",TRM Labs,USA,210000.0,Git
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,SQL
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Excel
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Machine Learning
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,AWS
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Azure
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Google Cloud
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Git
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Data Visualization
+26,Data Scientist III - Temporary,Veracyte,USA,67.5,Statistics
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,Python
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,TypeScript
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,REST API
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,React
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,Git
+27,"Senior Full Stack Engineer, Observability",NetBox Labs,"LATAM,  UK,  USA",91500.0,Data Visualization
+28,"Lead Full Stack Engineer (Laravel, Remote NL/UK Based)",Workwize,"Netherlands,  UK",,Excel
+29,"C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",Canonical,EMEA,,Python
+29,"C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",Canonical,EMEA,,SQL
+29,"C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",Canonical,EMEA,,Excel
+29,"C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",Canonical,EMEA,,SQLite
+30,Senior Software Engineer - MAAS,Canonical,"EMEA,  LATAM,  Canada,  USA",,Python
+30,Senior Software Engineer - MAAS,Canonical,"EMEA,  LATAM,  Canada,  USA",,TypeScript
+30,Senior Software Engineer - MAAS,Canonical,"EMEA,  LATAM,  Canada,  USA",,Excel
+30,Senior Software Engineer - MAAS,Canonical,"EMEA,  LATAM,  Canada,  USA",,React
+30,Senior Software Engineer - MAAS,Canonical,"EMEA,  LATAM,  Canada,  USA",,CI/CD
+31,Senior Software Engineer (Backend),Canonical,EMEA,,Python
+31,Senior Software Engineer (Backend),Canonical,EMEA,,SQL
+31,Senior Software Engineer (Backend),Canonical,EMEA,,Excel
+31,Senior Software Engineer (Backend),Canonical,EMEA,,PostgreSQL
+32,Software Engineer in Network Infrastructure,Nebius,"Europe,  Netherlands",,Python
+32,Software Engineer in Network Infrastructure,Nebius,"Europe,  Netherlands",,Machine Learning
+32,Software Engineer in Network Infrastructure,Nebius,"Europe,  Netherlands",,CI/CD
+33,Senior Web Engineer,Canonical,EMEA,,Excel
+33,Senior Web Engineer,Canonical,EMEA,,REST API
+33,Senior Web Engineer,Canonical,EMEA,,Docker
+33,Senior Web Engineer,Canonical,EMEA,,Kubernetes
+34,Director of Strategy & Analytics,Beyond Finance,USA,174947.0,SQL
+34,Director of Strategy & Analytics,Beyond Finance,USA,174947.0,Excel
+34,Director of Strategy & Analytics,Beyond Finance,USA,174947.0,Data Visualization
+35,"Senior Software Engineer, Frontend",Phantom,"LATAM,  Canada,  Europe,  USA",200000.0,TypeScript
+35,"Senior Software Engineer, Frontend",Phantom,"LATAM,  Canada,  Europe,  USA",200000.0,React
+35,"Senior Software Engineer, Frontend",Phantom,"LATAM,  Canada,  Europe,  USA",200000.0,AWS
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,Python
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,Java
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,SQL
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,AWS
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,Docker
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,Kubernetes
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,CI/CD
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,MySQL
+36,Senior Software Engineer (Revenue),Zuora,USA,195700.0,MongoDB
+37,"Software Engineer, Security, Stablecoin",Ramp,USA,259500.0,Python
+37,"Software Engineer, Security, Stablecoin",Ramp,USA,259500.0,Java
+37,"Software Engineer, Security, Stablecoin",Ramp,USA,259500.0,AWS
+37,"Software Engineer, Security, Stablecoin",Ramp,USA,259500.0,Azure
+37,"Software Engineer, Security, Stablecoin",Ramp,USA,259500.0,Google Cloud
+38,"Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",Samsara,Poland,694675.0,TypeScript
+38,"Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",Samsara,Poland,694675.0,React
+38,"Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B)",Samsara,Poland,694675.0,Git
+39,Marketing Data Scientist,Vonage,Mexico,,Python
+39,Marketing Data Scientist,Vonage,Mexico,,SQL
+39,Marketing Data Scientist,Vonage,Mexico,,Pandas
+39,Marketing Data Scientist,Vonage,Mexico,,NumPy
+39,Marketing Data Scientist,Vonage,Mexico,,Excel
+39,Marketing Data Scientist,Vonage,Mexico,,Power BI
+39,Marketing Data Scientist,Vonage,Mexico,,Tableau
+39,Marketing Data Scientist,Vonage,Mexico,,AWS
+39,Marketing Data Scientist,Vonage,Mexico,,Azure
+39,Marketing Data Scientist,Vonage,Mexico,,Google Cloud
+39,Marketing Data Scientist,Vonage,Mexico,,Git
+39,Marketing Data Scientist,Vonage,Mexico,,Data Visualization
+39,Marketing Data Scientist,Vonage,Mexico,,Statistics
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,TypeScript
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,SQL
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,React
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,Node.js
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,Docker
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,Kubernetes
+40,"Product Engineer, Internal Tools - LATAM",Luxury Presence,LATAM,,PostgreSQL
+41,Backend Engineer III,Monzo,UK,97500.0,Java
+41,Backend Engineer III,Monzo,UK,97500.0,Excel
+41,Backend Engineer III,Monzo,UK,97500.0,React
+41,Backend Engineer III,Monzo,UK,97500.0,AWS
+41,Backend Engineer III,Monzo,UK,97500.0,Google Cloud
+41,Backend Engineer III,Monzo,UK,97500.0,Docker
+41,Backend Engineer III,Monzo,UK,97500.0,Kubernetes
+42,"Director of Engineering, Cloud & Reliability",Boulevard,USA,239750.0,Excel
+42,"Director of Engineering, Cloud & Reliability",Boulevard,USA,239750.0,AWS
+42,"Director of Engineering, Cloud & Reliability",Boulevard,USA,239750.0,Kubernetes
+42,"Director of Engineering, Cloud & Reliability",Boulevard,USA,239750.0,Git
+42,"Director of Engineering, Cloud & Reliability",Boulevard,USA,239750.0,CI/CD
+44,Back-End Developers,Blue Pearl,Worldwide,,Python
+44,Back-End Developers,Blue Pearl,Worldwide,,Java
+44,Back-End Developers,Blue Pearl,Worldwide,,TypeScript
+44,Back-End Developers,Blue Pearl,Worldwide,,SQL
+44,Back-End Developers,Blue Pearl,Worldwide,,REST API
+44,Back-End Developers,Blue Pearl,Worldwide,,Node.js
+44,Back-End Developers,Blue Pearl,Worldwide,,AWS
+44,Back-End Developers,Blue Pearl,Worldwide,,Azure
+44,Back-End Developers,Blue Pearl,Worldwide,,Google Cloud
+44,Back-End Developers,Blue Pearl,Worldwide,,Docker
+44,Back-End Developers,Blue Pearl,Worldwide,,Kubernetes
+44,Back-End Developers,Blue Pearl,Worldwide,,Git
+44,Back-End Developers,Blue Pearl,Worldwide,,CI/CD
+44,Back-End Developers,Blue Pearl,Worldwide,,MySQL
+44,Back-End Developers,Blue Pearl,Worldwide,,PostgreSQL
+44,Back-End Developers,Blue Pearl,Worldwide,,MongoDB
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,Python
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,TypeScript
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,React
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,Node.js
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,AWS
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,Kubernetes
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,CI/CD
+45,"Senior Software Engineer, Platform & Developer Experience",Worth AI,Worldwide,,PostgreSQL
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Python
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Excel
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,REST API
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,AWS
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Google Cloud
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Docker
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Kubernetes
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,Git
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,CI/CD
+46,Software Engineer || (Authentication),Pindrop,Worldwide,119500.0,MySQL
+47,Senior Software Engineer - Predict,Consensys,Worldwide,188702.0,JavaScript
+47,Senior Software Engineer - Predict,Consensys,Worldwide,188702.0,TypeScript
+47,Senior Software Engineer - Predict,Consensys,Worldwide,188702.0,React
+48,MID Business Intelligence Analyst,McKesson,Worldwide,124400.0,SQL
+48,MID Business Intelligence Analyst,McKesson,Worldwide,124400.0,Power BI
+48,MID Business Intelligence Analyst,McKesson,Worldwide,124400.0,Tableau
+48,MID Business Intelligence Analyst,McKesson,Worldwide,124400.0,Data Visualization
+49,Senior Data Engineer - Remote,Community Health Systems,Worldwide,,Python
+49,Senior Data Engineer - Remote,Community Health Systems,Worldwide,,Java
+49,Senior Data Engineer - Remote,Community Health Systems,Worldwide,,SQL
+51,Backend Engineer - Python [Talents Bench],Metal Toad,Worldwide,,Python
+51,Backend Engineer - Python [Talents Bench],Metal Toad,Worldwide,,REST API
+51,Backend Engineer - Python [Talents Bench],Metal Toad,Worldwide,,AWS
+51,Backend Engineer - Python [Talents Bench],Metal Toad,Worldwide,,Git
+52,Senior Software Engineer / Fullstack (m/w/d),LogaRec GmbH,Worldwide,,Java
+52,Senior Software Engineer / Fullstack (m/w/d),LogaRec GmbH,Worldwide,,TypeScript
+53,"Staff Data Engineer – Data Fabric Integration, Defense & Systems Data Fabric",GE Aerospace,Worldwide,130500.0,AWS
+53,"Staff Data Engineer – Data Fabric Integration, Defense & Systems Data Fabric",GE Aerospace,Worldwide,130500.0,Azure
+54,Software Engineer Backend - (Semi Senior),2brains,Worldwide,,Java
+54,Software Engineer Backend - (Semi Senior),2brains,Worldwide,,SQL
+54,Software Engineer Backend - (Semi Senior),2brains,Worldwide,,Spring Boot
+54,Software Engineer Backend - (Semi Senior),2brains,Worldwide,,Git
+54,Software Engineer Backend - (Semi Senior),2brains,Worldwide,,CI/CD
+55,Software Engineer Backend - (Senior),2brains,Worldwide,,Java
+55,Software Engineer Backend - (Senior),2brains,Worldwide,,SQL
+55,Software Engineer Backend - (Senior),2brains,Worldwide,,Spring Boot
+55,Software Engineer Backend - (Senior),2brains,Worldwide,,Git
+55,Software Engineer Backend - (Senior),2brains,Worldwide,,CI/CD
+56,Full Stack Developer (Golang-Angular),2brains,Worldwide,,PostgreSQL
+57,Senior Data Engineer - Real time analytics,Aircall,Worldwide,,Python
+57,Senior Data Engineer - Real time analytics,Aircall,Worldwide,,TypeScript
+57,Senior Data Engineer - Real time analytics,Aircall,Worldwide,,SQL
+57,Senior Data Engineer - Real time analytics,Aircall,Worldwide,,AWS
+57,Senior Data Engineer - Real time analytics,Aircall,Worldwide,,CI/CD

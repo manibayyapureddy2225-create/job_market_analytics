@@ -1,0 +1,4 @@
+location,job_count,average_salary,minimum_salary,maximum_salary
+"Pune, India",1,800000.0,600000,1000000
+"Bangalore, India",1,700000.0,500000,900000
+"Hyderabad, India",1,550000.0,400000,700000

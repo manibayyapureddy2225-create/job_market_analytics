@@ -1,0 +1,26 @@
+﻿location,job_count,demand_percentage
+Worldwide,21,30.43
+USA,14,20.29
+Canada,4,5.8
+"Northern America, LATAM, Europe, APAC",3,4.35
+LATAM,3,4.35
+EMEA,3,4.35
+"Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",2,2.9
+"Americas, Europe, Israel",2,2.9
+"USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",1,1.45
+"USA, Canada, USA timezones",1,1.45
+"USA, Canada, Argentina, Mexico, Peru",1,1.45
+UK,1,1.45
+Poland,1,1.45
+"Netherlands,  UK",1,1.45
+Mexico,1,1.45
+"LATAM,  UK,  USA",1,1.45
+"LATAM,  Canada,  Europe,  USA",1,1.45
+"France, Japan, Turkey, Vietnam, Mexico, Norway",1,1.45
+"France,  Germany,  Netherlands,  Spain,  UK",1,1.45
+"Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",1,1.45
+"Europe, USA, Canada, APAC",1,1.45
+"Europe,  Netherlands",1,1.45
+"EMEA,  LATAM,  Canada,  USA",1,1.45
+"Canada,  USA",1,1.45
+Anywhere,1,1.45
